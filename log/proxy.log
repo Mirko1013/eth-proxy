@@ -1,0 +1,15 @@
+2018-01-30 11:02:45,099 WARNING proxy # Ethereum Stratum proxy version: 0.0.5
+2018-01-30 11:02:45,101 WARNING proxy # Trying to connect to Stratum pool at huabei-pool.ethfans.org:3333:3333
+2018-01-30 11:03:12,785 WARNING proxy # Ethereum Stratum proxy version: 0.0.5
+2018-01-30 11:03:12,785 WARNING proxy # Trying to connect to Stratum pool at huabei-pool.ethfans.org:3333
+2018-01-30 11:03:16,434 INFO stats # 1 peers connected, state changed 1 times
+2018-01-30 11:03:16,434 INFO proxy # Connected to Stratum pool at huabei-pool.ethfans.org:3333
+2018-01-30 11:03:17,816 WARNING proxy # -----------------------------------------------------------------------
+2018-01-30 11:03:17,816 WARNING proxy # PROXY IS LISTENING ON ALL IPs ON PORT 8080
+2018-01-30 11:03:17,816 WARNING proxy # -----------------------------------------------------------------------
+2018-01-30 11:03:17,818 WARNING proxy # Wallet: 0x56ac7bf8b8906bb18af4191bd4a569a12fd6e18a
+2018-01-30 11:03:17,818 WARNING proxy # Worker ID enabled: False
+2018-01-30 11:03:17,818 WARNING proxy # Email monitoring disabled
+2018-01-30 11:03:17,818 WARNING proxy # Failover enabled: False
+2018-01-30 11:03:17,818 WARNING proxy # -----------------------------------------------------------------------
+2018-01-30 11:03:19,105 INFO proxy # NEW_JOB MAIN_POOL
